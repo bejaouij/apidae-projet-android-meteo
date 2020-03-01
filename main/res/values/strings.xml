@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ez Weather</string>
+    <string name="temperature_unit">°C</string>
+    <string name="weather_state_icon">Weather State Icon</string>
+    <string name="na_data">NA</string>
+    <string name="words_separator"> - </string>
+    <string name="city_input_hint">Change the city</string>
+    <string name="save_value_button_text">Save</string>
+    <string name="invalid_city_warning_text">Please inform a valid city name.</string>
+</resources>
